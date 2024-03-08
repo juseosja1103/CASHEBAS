@@ -55,7 +55,7 @@ texts = {
         'transaction_date': 'Fecha:',
         'username': 'Nombre de usuario:',
         'password': 'Contraseña:',
-        'save': 'Guardar'
+        'perform_operations': 'Realizar Operaciones'
     },
     'en': {
         'welcome_message': 'Welcome to CashEBAS ATM!',
@@ -79,7 +79,7 @@ texts = {
         'transaction_date': 'Date:',
         'username': 'Username:',
         'password': 'Password:',
-        'save': 'Save'
+        'perform_operations': 'Perform Operations'
     }
 }
 
